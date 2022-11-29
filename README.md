@@ -22,3 +22,5 @@ IHSAN UL HAQ (SP21-BSE-013)
 
 SARMAD HASEEB BALOCH (SP21-BSE-023)
 
+SCOPE:
+	Contextual Chatting App will be used by several platforms in order to create discussion groups for users who have some queries regarding the respective matter. For example online marketplace will have groups regarding several fields in order to make discussions about the field availble to users.
