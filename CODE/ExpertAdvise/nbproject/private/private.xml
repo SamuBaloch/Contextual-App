@@ -3,9 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/UserInterface/Groups/Group.java</file>
-            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/UserInterface/NewClass.java</file>
-            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/UserInterface/Profile/Profile.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/DAL/SqlConnection.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/UserInterface/UI.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/DAL/DBReader.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/Dom/Validators/CommonValidator.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/DAL/DBAdder.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/UserInterface/Login.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/Dom/DTO/UserDTO.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/Dom/OSSController.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/UserInterface/Register.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/Dom/SMSFactory.java</file>
+            <file>file:/C:/Users/Attou/Documents/NetBeansProjects/ExpertAdvise/src/DAL/DALManager.java</file>
         </group>
     </open-files>
 </project-private>
